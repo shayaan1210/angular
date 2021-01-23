@@ -1,0 +1,14 @@
+.box{
+    width: 100px;
+    height:100px;
+    background-color: red;
+
+}
+
+.border{
+    border:5px solid black;
+}
+
+.rounded{
+    border-radius: 50%;
+}
